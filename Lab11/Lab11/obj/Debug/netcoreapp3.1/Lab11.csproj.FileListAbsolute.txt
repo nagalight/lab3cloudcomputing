@@ -1,0 +1,13 @@
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.exe
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.deps.json
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.runtimeconfig.json
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.runtimeconfig.dev.json
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.dll
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.pdb
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.csprojAssemblyReference.cache
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.AssemblyInfoInputs.cache
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.AssemblyInfo.cs
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.csproj.CoreCompileInputs.cache
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.dll
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.pdb
+F:\ASM shit\Advanded programing\code\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.genruntimeconfig.cache
